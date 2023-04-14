@@ -1,7 +1,7 @@
 import { Sequelize, Model, DataTypes } from "sequelize";
 
 const sequelize = new Sequelize("ecommercedb_l6yz", "cappucher", "24vpJNRk504kY06GnK34sazfjEbdFXhI", {
-    host: "postgres://cappucher:24vpJNRk504kY06GnK34sazfjEbdFXhI@dpg-cgsrr63k9u58arku7ag0-a/ecommercedb_l6yz",
+    host: "postgres://cappucher:24vpJNRk504kY06GnK34sazfjEbdFXhI@dpg-cgsrr63k9u58arku7ag0-a.oregon-postgres.render.com/ecommercedb_l6yz",
     port: 5432,
     dialect: "postgres",
 });
