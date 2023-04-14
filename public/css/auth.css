@@ -1,0 +1,42 @@
+.card {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+input {
+    padding: 2px;
+    border-radius: 2px;
+    border: 1px solid grey;
+}
+
+
+#login-text {
+    font-size: 18px;
+}
+
+input:focus {
+    outline: none;
+}
+
+.details {
+    padding: 15px;
+}
+
+.details * {
+    margin-top: 3px;
+}
+
+.alert {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+#dollar {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.edit{
+    margin-bottom: 50px;
+}

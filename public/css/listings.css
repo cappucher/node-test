@@ -1,0 +1,28 @@
+.title{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.bid{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.details{
+    padding: 15px;
+}
+
+.details *{
+    margin-top: 3px;
+}
+
+#login-text{
+    font-size: 18px;
+}
+
+.category{
+    margin-left: 75px;
+    width: 20vw !important;
+    margin-bottom: 20px;
+}
+
